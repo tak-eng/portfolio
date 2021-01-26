@@ -100,16 +100,18 @@ li {
   align-items: center;
   justify-content: center;
   height: 540px;
+  background-image: url(../img/pc_header.jpg);
+  background-size: 100%;
 }
 
 .logo-name {
   font-family: "Franklin Gothic Medium";
-  font-size: 32px;
+  font-size: 40px;
   line-height: 1;
   display: block;
   margin-bottom: 5px;
   text-align: center;
-  color: black;
+  color: grey;
 }
 
 .logo {
