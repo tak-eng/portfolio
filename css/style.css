@@ -103,13 +103,13 @@ li {
 }
 
 .logo-name {
-  font-family: "Amatic SC", cursive;
+  font-family: "Franklin Gothic Medium";
   font-size: 32px;
   line-height: 1;
   display: block;
   margin-bottom: 5px;
   text-align: center;
-  color: #757575;
+  color: black;
 }
 
 .logo {
@@ -117,13 +117,13 @@ li {
 }
 
 .logo-title {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "arial";
   font-size: 88px;
   font-weight: normal;
   line-height: 1;
   display: block;
   letter-spacing: .1em;
-  color: #f39ac7;
+  color: darkblue;
 }
 
 .logo-text {
