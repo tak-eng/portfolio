@@ -269,6 +269,15 @@ li {
   margin-bottom: 20px;
 }
 
+h1.profile-name{
+  color: #333;
+  font-size: 30px;
+  border-bottom: solid 2px darkblue;
+}
+h2.org-name{
+  font-size: 20px;
+  margin-top: 10px;
+}
 /*--------------------------------
  Skill
 ---------------------------------*/
