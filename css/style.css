@@ -52,13 +52,13 @@ li {
  文字
 ---------------------------------*/
 .heading-primary {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "arial", serif;
   font-size: 36px;
   line-height: 1;
   display: inline-block;
   letter-spacing: .2em;
   text-transform: lowercase;
-  color: #f39ac7;
+  color: darkblue;
 }
 
 .section-heading {
@@ -143,7 +143,7 @@ li {
 ---------------------------------*/
 .gnav {
   z-index: 1;
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Franklin Gothic Medium";
   padding: 10px;
 }
 
