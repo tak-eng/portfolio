@@ -426,7 +426,8 @@ h2.org-name{
   padding: 10px;
   cursor: pointer;
   text-align: center;
-  background-color: #ffe8f4;
+  background-color: gray;
+  color: white;
 }
 
 /*media Queries 767
